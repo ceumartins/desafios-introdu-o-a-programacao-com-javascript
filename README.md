@@ -13,6 +13,7 @@ Imprimir a mensagem "X = " (sendo a letra X maiúscula) seguido pelo valor da va
 
 # 
 
+
 ## Multiplicação Simples
 
 ### Desafio
@@ -25,6 +26,7 @@ A entrada contém 2 valores inteiros.
 Exiba a variável PROD conforme exemplo abaixo, tendo obrigatoriamente um espaço em branco antes e depois da igualdade.
 
 # 
+
 
 ## Folha de pagamento
 
